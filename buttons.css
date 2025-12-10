@@ -1,0 +1,16 @@
+.link-buttons{
+    height: 50px;
+    position: relative;
+}
+.link-buttons:hover{
+    background-color: aquamarine;
+    color: black;
+    height: 50px;
+}
+.image{
+    height: 35px;
+}
+.link-buttons:hover .lude-text{
+    position: absolute;
+    font-size: 72px;
+}
